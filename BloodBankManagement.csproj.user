@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="BloodBank\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BloodBank\View\BloodStockView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BloodBank\View\BloodTransferView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BloodBank\View\DashboardView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BloodBank\View\DonateBloodView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BloodBank\View\DonorView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BloodBank\View\EmployeeView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BloodBank\View\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BloodBank\View\PatientView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BloodBank\View\Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BloodBank\View\Test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\BloodStockView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\BloodTransferView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\DashboardView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\DonateBloodView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\DonorView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\EmployeeView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\PatientView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
